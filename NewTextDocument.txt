@@ -1,3 +1,1 @@
-New
-text
-document
+New text document #2
